@@ -4,6 +4,4 @@ The [Boron](https://docs.particle.io/datasheets/cellular/boron-datasheet/) LTE i
 
 This library is for use in Eagle CAD to provide a pre-built schematic and provide a matching board placement template.
 
-![alt text](https://github.com/tjpilson/particle/blob/master/images/Schematic.png "Schematic")
-
-![alt text](https://github.com/tjpilson/particle/blob/master/images/Board.png "Board")
+![alt text](https://github.com/tjpilson/particle/blob/master/images/SchematicWithBoard.png "Schematic and Board")
